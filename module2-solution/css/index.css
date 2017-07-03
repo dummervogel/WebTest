@@ -36,6 +36,7 @@ section > header {
 section > p {
   clear: right;
   margin: 10px;
+  font-family: 'Architects Daughter', cursive;
   font-size: 14px;
 }
 

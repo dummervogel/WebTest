@@ -1,0 +1,24 @@
+#header-nav {
+	  background-color: lightgrey;
+  font-weight: bold;
+  color: black;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+#nav-list {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.nav > li {
+	text-align: center;
+	background-color: white;
+	border-bottom: 1px solid;
+}
+header {
+	font-size: 1.75em
+}
+.content {
+	background-color: lightgrey;
+	padding-left: 10px;
+	padding-right: 10px;
+}
